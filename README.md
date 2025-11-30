@@ -1,7 +1,9 @@
 # 👋 Hola, soy Pablo Aparicio Estevez
 
-Desarrollador de aplicaciones web y mobile, interesado en tecnologías modernas y buenas prácticas de desarrollo.  
-Este perfil refleja únicamente actividad pública; la mayoría de mi trabajo es privado y confidencial.
+Desarrollador web y mobile, centrado en tecnologías modernas y buenas prácticas de desarrollo.  
+Este perfil es neutral y seguro, solo refleja actividad pública; la mayor parte de mi trabajo es privado.
+
+[🔗 LinkedIn](https://www.linkedin.com/in/pablo-aparicio-estevez-3a40538a/?originalSubdomain=es)
 
 ---
 
@@ -14,22 +16,32 @@ React · React Native · Expo · Next.js · Tailwind · MUI
 Node.js · SQL · Supabase · REST · SOAP/XML
 
 **Herramientas / Automatización**  
-TypeScript · Automatización de scripts · Procesamiento de archivos (PDF, imágenes)  
+TypeScript · Scripts · Procesamiento de archivos (PDF, imágenes)
 
 ---
 
-## 📚 Intereses y aprendizaje
+## 📊 Habilidades (nivel relativo)
 
-- Nuevas capacidades de React 19 y Expo SDK  
-- Patrones de arquitectura limpia y buenas prácticas  
-- Testing, automatización y optimización de aplicaciones  
-- Integraciones y pipelines de desarrollo modernos  
+**React / React Native**  
+![|||||||| 90%](https://progress-bar.dev/90/?title=React)
+
+**Next.js**  
+![|||||||| 85%](https://progress-bar.dev/85/?title=Next.js)
+
+**Node.js / Backend**  
+![||||||| 80%](https://progress-bar.dev/80/?title=Node.js)
+
+**TypeScript**  
+![|||||||| 88%](https://progress-bar.dev/88/?title=TypeScript)
+
+**SQL / Supabase**  
+![||||||| 75%](https://progress-bar.dev/75/?title=SQL)
 
 ---
 
-## 📊 Estadísticas públicas en GitHub
+## 📊 Estadísticas públicas
 
-> Nota: mis repos son mayoritariamente privados, estas estadísticas solo reflejan la actividad pública.
+> Nota: mis repos son mayoritariamente privados, estas stats solo reflejan la actividad pública.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paparicioestevez&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paparicioestevez&layout=compact&hide_border=true&theme=radical)
@@ -56,4 +68,5 @@ TypeScript · Automatización de scripts · Procesamiento de archivos (PDF, imá
 
 ## 📫 Contacto
 
-Puedes contactar conmigo directamente a través de GitHub.
+- [LinkedIn](https://www.linkedin.com/in/pablo-aparicio-estevez-3a40538a/?originalSubdomain=es)  
+- GitHub: mensaje directo
