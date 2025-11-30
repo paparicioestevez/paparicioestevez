@@ -1,37 +1,61 @@
 # 👋 Hola, soy Pablo
 
-Desarrollador con interés en tecnologías web y mobile. Me gusta mantener un perfil técnico ordenado y documentar lo que aprendo y utilizo en mi día a día.
+Desarrollador con enfoque en aplicaciones web y mobile.  
+Me gusta trabajar con tecnologías modernas, cuidar la calidad del código y mantenerme al día con las mejores prácticas del ecosistema JavaScript/TypeScript.
+
+Este perfil refleja únicamente parte de mi actividad, ya que la mayoría de mi trabajo es privado, pero aquí encontrarás un resumen de lo que utilizo y exploro habitualmente.
 
 ---
 
-## 🛠️ Tecnologías con las que trabajo
+## 🛠️ Stack habitual
 
-- JavaScript / TypeScript  
+**Frontend / Mobile**
 - React · React Native · Expo  
 - Next.js  
+- Tailwind · MUI  
+
+**Backend / Datos**
 - Node.js  
 - SQL · Supabase  
-- Integraciones REST / SOAP  
-- Herramientas de automatización y procesamiento (OCR, PDF, etc.)
+- APIs REST  
+- Integraciones SOAP/XML  
+
+**Tooling**
+- TypeScript  
+- Automatizaciones · scripts  
+- Procesamiento de archivos (PDF, imágenes, etc.)
 
 ---
 
-## 📚 Actualmente aprendiendo / explorando
+## 📚 Intereses y aprendizaje continuo
 
-- Nuevas capacidades de React 19 y Expo SDKs recientes  
-- Integraciones modernas de autenticación e internacionalización  
-- Patrones de arquitectura limpia y DX
+- Nuevas capacidades de React 19  
+- Mejoras recientes del ecosistema Expo / React Native  
+- Arquitecturas limpias y DX  
+- Testing y automatización de flujos  
+- Optimización en aplicaciones web y mobile
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad (parcial) en GitHub
 
-*(Repos privados → las estadísticas pueden no reflejar toda la actividad, pero sirve como referencia)*  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paparicioestevez&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paparicioestevez&layout=compact&theme=default)
+> Nota: mis repos son mayoritariamente privados, por lo que estas estadísticas solo representan la parte pública del perfil.
+
+### Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paparicioestevez&show_icons=true&hide_border=true)
+
+### Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paparicioestevez&layout=compact&hide_border=true)
+
+---
+
+## 🧩 Otros widgets útiles
+
+### Contador de visitas
+![Profile Views](https://komarev.com/ghpvc/?username=paparicioestevez&color=grey)
 
 ---
 
 ## 📫 Contacto
 
-Si necesitas ponerte en contacto conmigo, puedes hacerlo por aquí mismo en GitHub.
+Puedes contactar conmigo a través de GitHub.
