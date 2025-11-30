@@ -1,9 +1,7 @@
 # 👋 Hola, soy Pablo Aparicio Estevez
 
 Desarrollador web y mobile, centrado en tecnologías modernas y buenas prácticas de desarrollo.  
-Este perfil es neutral y seguro, solo refleja actividad pública; la mayor parte de mi trabajo es privado.
-
-[🔗 LinkedIn](https://www.linkedin.com/in/pablo-aparicio-estevez-3a40538a/?originalSubdomain=es)
+Este perfil es neutral y seguro, solo refleja actividad pública; la mayoría de mi trabajo es privado.
 
 ---
 
@@ -20,22 +18,15 @@ TypeScript · Scripts · Procesamiento de archivos (PDF, imágenes)
 
 ---
 
-## 📊 Habilidades (nivel relativo)
+## 📊 Habilidades principales
 
-**React / React Native**  
-![|||||||| 90%](https://progress-bar.dev/90/?title=React)
+- React / React Native  
+- Next.js  
+- Node.js / Backend  
+- TypeScript  
+- SQL / Supabase  
 
-**Next.js**  
-![|||||||| 85%](https://progress-bar.dev/85/?title=Next.js)
-
-**Node.js / Backend**  
-![||||||| 80%](https://progress-bar.dev/80/?title=Node.js)
-
-**TypeScript**  
-![|||||||| 88%](https://progress-bar.dev/88/?title=TypeScript)
-
-**SQL / Supabase**  
-![||||||| 75%](https://progress-bar.dev/75/?title=SQL)
+*(sin niveles relativos, solo mostrando tecnologías utilizadas)*
 
 ---
 
@@ -66,7 +57,7 @@ TypeScript · Scripts · Procesamiento de archivos (PDF, imágenes)
 
 ---
 
-## 📫 Contacto
+## 🔗 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/pablo-aparicio-estevez-3a40538a/?originalSubdomain=es)  
-- GitHub: mensaje directo
+- GitHub: mensaje directo  
+- [LinkedIn](https://www.linkedin.com/in/pablo-aparicio-estevez-3a40538a/?originalSubdomain=es)
